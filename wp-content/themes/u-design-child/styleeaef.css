@@ -1,0 +1,25 @@
+/*
+Theme Name: U-Design Child
+Theme URI: http://themeforest.net/item/udesign-responsive-wordpress-theme/253220?ref=AndonDesign
+Template: u-design
+Author: Andon
+Author URI: http://themeforest.net/user/AndonDesign/portfolio?ref=AndonDesign
+Description: A slick, powerful and clean theme U-Design provides an intuitive set of options to help you setup your WordPress site quickly and effectively. Flexibility is key and it has been optimized for SEO and speed. It is also responsive &amp; mobile ready should you choose that option. The U-Design theme features include: unlimited colors, widgetized home page, over 600 fonts to choose from, WooCommerce Integration, it is also translation and multilingual ready, step by step documentation, exclusive U-Design support forum and a helpful community. Always up-to-date security and many new features are constantly added as the theme evolves.
+Version: 2.7.11.1510312294
+Updated: 2017-11-10 11:11:34
+
+*/
+
+.highlight {
+     background-color: #009ACF;
+     padding: 10px 40px 10px 30px;
+     color: #ffffff;
+     background-position: top right;
+}
+
+.collapseomatic {
+    background-image: url('https://playpalsapp.co/images/collapse-it-arrow-down.png') !important;
+}
+.colomat-close {
+    background-image: url('https://playpalsapp.co/images/collapse-it-arrow-up.png') !important;
+}
